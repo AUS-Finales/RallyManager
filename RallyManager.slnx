@@ -1,0 +1,8 @@
+<Solution>
+  <Project Path="RallyManager.Api/RallyManager.Api.csproj" />
+  <Project Path="RallyManager.Application/RallyManager.Application.csproj" />
+  <Project Path="RallyManager.domain/RallyManager.Domain.csproj" />
+  <Project Path="RallyManager.Infrastructure/RallyManager.Infrastructure.csproj" />
+  <Project Path="RallyManager.Mobile/RallyManager.Mobile.csproj" Id="83a9c99e-2fa2-4d59-a915-4781b08a46f3" />
+  <Project Path="RallyManager.Web/RallyManager.Web.csproj" />
+</Solution>

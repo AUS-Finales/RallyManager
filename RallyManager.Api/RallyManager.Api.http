@@ -1,0 +1,6 @@
+@RallyManager.Api_HostAddress = http://localhost:5235
+
+GET {{RallyManager.Api_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
