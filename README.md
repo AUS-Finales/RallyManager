@@ -27,6 +27,10 @@ incidencias, penalizaciones y resultados.
 - SQL Server
 - Entity Framework Core
 
+## Documentacion
+
+- [Modelo de dominio](docs/modelo.md)
+
 ## Estado
 
 Proyecto académico en desarrollo.
